@@ -85,9 +85,9 @@ The dashboard translates SQL insights into clear, dynamic visualizations to help
 ## 🛠️ Tools Used
 - **MySQL** – Data cleaning, transformations, and all analytical queries  
 - **Python (Pandas, Matplotlib, Seaborn)** – Optional EDA & validation  
-- **Power BI / Tableau / Excel** – Dashboard creation and visualization  
+- **Power BI** – Dashboard creation and visualization  
 - **GitHub** – Version control and documentation  
-- **VS Code / Jupyter Notebook** – Writing and testing scripts  
+- **VS Code** – Writing and testing scripts  
 
 ## 🚀 How to Use the Project
 - **1.** Clone the repository
