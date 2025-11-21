@@ -47,7 +47,11 @@ The project uses **Python (Pandas, Matplotlib, Seaborn)** for analysis and **MyS
 - Most volatile crypto  
 - 24-hour top gainer  
 - Rolling volatility using SQL window functions  
-- Volume and return-based rankings  
+- Volume and return-based rankings
+
+### **5. Dashboard Development**
+After completing the SQL-based analysis, the next step was building a fully interactive dashboard to visualize crypto market behavior.  
+The dashboard translates SQL insights into clear, dynamic visualizations to help identify trends, Tickers, and high-performing assets, as well as Market Cap.
 
 ---
 
@@ -67,7 +71,8 @@ The project uses **Python (Pandas, Matplotlib, Seaborn)** for analysis and **MyS
 - Performing financial time-series analysis  
 - Using SQL window functions (LAG, STD, ROWS PRECEDING)  
 - Creating clear financial visualizations with Matplotlib and Seaborn  
-- Understanding cryptocurrency market structure and behavior  
+- Understanding cryptocurrency market structure and behavior
+- Translating raw query results into dashboard visuals  
 
 ---
 
@@ -77,14 +82,19 @@ The project uses **Python (Pandas, Matplotlib, Seaborn)** for analysis and **MyS
 > *(Add your screenshot here after uploading the dashboard image)*
 > *(Add your screenshot here after uploading the dashboard image)*
 
+## 🛠️ Tools Used
+- **MySQL** – Data cleaning, transformations, and all analytical queries  
+- **Python (Pandas, Matplotlib, Seaborn)** – Optional EDA & validation  
+- **Power BI / Tableau / Excel** – Dashboard creation and visualization  
+- **GitHub** – Version control and documentation  
+- **VS Code / Jupyter Notebook** – Writing and testing scripts  
 
 ## 🚀 How to Use the Project
-
-#### **1. Clone the repository**
-#### **2. Install requirements**
-#### **3.  Run notebooks**
-#### **4.  Load data into MySQL**
-#### **5.  Explore Power-BI dashboard**
+- **1.** Clone the repository
+- **2.** Install requirements
+- **3.** Run notebooks
+- **4.** Load data into MySQL
+- **5.**  Explore Power-BI dashboard
 
 ## 🏷️ Tags
 #CryptoAnalysis #Python #MySQL #DataAnalysis #TimeSeries
