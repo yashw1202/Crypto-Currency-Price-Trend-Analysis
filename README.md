@@ -77,10 +77,13 @@ The dashboard translates SQL insights into clear, dynamic visualizations to help
 ---
 
 ## 🖼️ Dashboard Preview
-> *(Add your screenshot here after uploading the dashboard image)*
-> *(Add your screenshot here after uploading the dashboard image)*
-> *(Add your screenshot here after uploading the dashboard image)*
-> *(Add your screenshot here after uploading the dashboard image)*
+> *<img width="1243" height="741" alt="image" src="https://github.com/user-attachments/assets/5fa8341d-f572-4221-bfbc-86d6d523f820" />*
+
+> *<img width="1250" height="681" alt="image" src="https://github.com/user-attachments/assets/b116ccca-fb84-4407-b7bd-8f1d56341f7a" />*
+
+> *<img width="875" height="584" alt="image" src="https://github.com/user-attachments/assets/85b6cf3e-d67e-454c-a25d-125411d4fe61" />*
+
+> *<img width="893" height="585" alt="image" src="https://github.com/user-attachments/assets/e3f9973b-480e-46a3-9dfb-75e79700b3ae" />*
 
 ## 🛠️ Tools Used
 - **MySQL** – Data cleaning, transformations, and all analytical queries  
